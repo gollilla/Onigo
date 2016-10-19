@@ -1,0 +1,7 @@
+name: onigo
+main: onigo\main
+version: 2.4.3
+api: [1.11.0]
+load: POSTWORLD
+author: soradore
+description:
